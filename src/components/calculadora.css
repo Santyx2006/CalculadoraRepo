@@ -28,7 +28,7 @@ body {
   }
   
   button {
-    background-color: #007bff;
+    background-color: darkblue;
     color: white;
     cursor: pointer;
     transition: background-color 0.3s ease;
